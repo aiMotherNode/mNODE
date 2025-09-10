@@ -20,7 +20,8 @@ Supply
 10,000,000 (fixed)
 Developer Allocation
 1,000,000 (locked 2 years)
-Treasury Allocation
+Treasury Allocation!
+
 1,000,000
 Premine
 None (not pre-minted)
@@ -36,3 +37,6 @@ Index Canister
 ex7r2-paaaa-aaaai-q32ya-cai
 
 Read full documentation on http://aimothernode.com
+![IMG_2750](https://github.com/user-attachments/assets/fbdffa7d-845b-43f6-b609-7c90910c4a4b)
+
+
